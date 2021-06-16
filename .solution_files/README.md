@@ -61,105 +61,6 @@ dental.head()
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>SEQN</th>
-      <th>Gender</th>
-      <th>Age in years at screening</th>
-      <th>Race/Hispanic origin</th>
-      <th>Race/Hispanic origin w/ NH Asian</th>
-      <th>Country of birth</th>
-      <th>When did you last visit a dentist</th>
-      <th>Rate the health of your teeth and gums</th>
-      <th># times you brush your teeth in 1 day?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>109264.0</td>
-      <td>Female</td>
-      <td>13.0</td>
-      <td>1.0</td>
-      <td>Mexican American</td>
-      <td>USA</td>
-      <td>6 months or less</td>
-      <td>Good</td>
-      <td>2.0</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>109268.0</td>
-      <td>Female</td>
-      <td>18.0</td>
-      <td>3.0</td>
-      <td>Non-Hispanic White</td>
-      <td>USA</td>
-      <td>More than 6 months, but not more than 1 year ago</td>
-      <td>Very good</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>109270.0</td>
-      <td>Female</td>
-      <td>11.0</td>
-      <td>4.0</td>
-      <td>Non-Hispanic Black</td>
-      <td>USA</td>
-      <td>6 months or less</td>
-      <td>Excellent</td>
-      <td>2.0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>109275.0</td>
-      <td>Male</td>
-      <td>6.0</td>
-      <td>3.0</td>
-      <td>Non-Hispanic White</td>
-      <td>USA</td>
-      <td>6 months or less</td>
-      <td>Excellent</td>
-      <td>2.0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>109277.0</td>
-      <td>Female</td>
-      <td>12.0</td>
-      <td>1.0</td>
-      <td>Mexican American</td>
-      <td>USA</td>
-      <td>6 months or less</td>
-      <td>Fair</td>
-      <td>2.0</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
 ```python
 dental.head()
 ```
@@ -273,19 +174,6 @@ In the cell below, plot a histrogram for the `# times you brush your teeth in 1 
 ```python
 dental.iloc[:,-1].hist()
 ```
-
-
-
-
-    <AxesSubplot:>
-
-
-
-
-    
-![png](index_files/index_13_1.png)
-    
-
 
 The data in this column appears to have some outliers near 100. If we reference the [Data Dictionary](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_OHQ.htm#OHQ848Q), we can see that values greater than 9 represent either Null values or individuals who responded with "Don't know". In the cell below, drop rows where `# times you brush your teeth in 1 day?` is greater than 9.
 
@@ -405,7 +293,7 @@ For this ttest:
 $degrees\space of\space freedom=SampleSize_1 + SampleSize_2 - 2$
 
 
-![](https://lh3.googleusercontent.com/proxy/BjvPty-ZDJcOBdjm5Neb53ToqHXoTPHcmEQJJA8h5Hh2nyOGEKxv5q0RrEvhQWWd3H_y3xfT3MQYZx0xlhesYxGVA-vbbLQbOWRMq-sR7JTbgGTruPa1EdmQiAnCavQm6PfNC9c3bQXiHww_)
+![](formula.png)
 
 **Please complete the functions below. Comments have been provided to guide you through each step.**
 
@@ -422,12 +310,12 @@ def ttest_s(samp1, samp2):
     
     ######### YOUR CODE HERE #########
 
-    # Raise samp1_diff to the second power
+    # Raise samp1_diff to the second power and sum the squared values
     # Store the result in the variable samp1_diff_sq
     
     ######### YOUR CODE HERE #########
 
-    # Raise samp2_diff to the second power
+    # Raise samp2_diff to the second power and sum the squared values
     # Store the result in the variable samp2_diff_sq   
     
     ######### YOUR CODE HERE #########
@@ -522,10 +410,10 @@ def ttest_s(samp1, samp2):
     # Subtract the mean from each observation in samp2
     # Store these differences in a variable called `samp2_diff`
     samp2_diff = samp2 - samp2.mean()
-    # Raise samp1_diff to the second power
+    # Raise samp1_diff to the second power and sum the squared values
     # Store the result in the variable samp1_diff_sq
     samp1_diff_sq = (samp1_diff ** 2).sum()
-    # Raise samp2_diff to the second power
+    # Raise samp2_diff to the second power and sum the squared values
     # Store the result in the variable samp2_diff_sq   
     samp2_diff_sq = (samp2_diff ** 2  ).sum()
     # Find the sum of samp1_diff_sq and samp2_diff_sq
@@ -585,13 +473,6 @@ ttest(male_brush, female_brush)
 ```
 
 
-
-
-    (-4.91483791960319, 9.179888912714235e-07)
-
-
-
-
 ```python
 ttest(male_brush, female_brush)
 ```
@@ -609,13 +490,6 @@ ttest(male_brush, female_brush)
 ```python
 stats.ttest_ind(male_brush, female_brush)
 ```
-
-
-
-
-    Ttest_indResult(statistic=-4.91483791960319, pvalue=9.179888912714235e-07)
-
-
 
 
 ```python
@@ -666,105 +540,6 @@ bp = pd.read_csv('data/nhanes_blood_pressure.csv')
 ```python
 bp.head()
 ```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>SEQN</th>
-      <th>Gender</th>
-      <th>Age in years at screening</th>
-      <th>Race/Hispanic origin</th>
-      <th>Race/Hispanic origin w/ NH Asian</th>
-      <th>Country of birth</th>
-      <th>Arm selected - oscillometric</th>
-      <th>Systolic - 1st oscillometric reading</th>
-      <th>Pulse - 1st oscillometric reading</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>109264.0</td>
-      <td>Female</td>
-      <td>13.0</td>
-      <td>1.0</td>
-      <td>Mexican American</td>
-      <td>USA</td>
-      <td>R</td>
-      <td>109.0</td>
-      <td>94.0</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>109266.0</td>
-      <td>Female</td>
-      <td>29.0</td>
-      <td>5.0</td>
-      <td>Non-Hispanic Asian</td>
-      <td>Other</td>
-      <td>R</td>
-      <td>99.0</td>
-      <td>68.0</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>109270.0</td>
-      <td>Female</td>
-      <td>11.0</td>
-      <td>4.0</td>
-      <td>Non-Hispanic Black</td>
-      <td>USA</td>
-      <td>R</td>
-      <td>123.0</td>
-      <td>95.0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>109271.0</td>
-      <td>Male</td>
-      <td>49.0</td>
-      <td>3.0</td>
-      <td>Non-Hispanic White</td>
-      <td>USA</td>
-      <td>R</td>
-      <td>102.0</td>
-      <td>73.0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>109273.0</td>
-      <td>Male</td>
-      <td>36.0</td>
-      <td>3.0</td>
-      <td>Non-Hispanic White</td>
-      <td>USA</td>
-      <td>R</td>
-      <td>116.0</td>
-      <td>71.0</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
 
 
 ```python

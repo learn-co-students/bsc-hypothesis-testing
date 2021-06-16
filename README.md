@@ -136,7 +136,7 @@ For this ttest:
 $degrees\space of\space freedom=SampleSize_1 + SampleSize_2 - 2$
 
 
-![](https://lh3.googleusercontent.com/proxy/BjvPty-ZDJcOBdjm5Neb53ToqHXoTPHcmEQJJA8h5Hh2nyOGEKxv5q0RrEvhQWWd3H_y3xfT3MQYZx0xlhesYxGVA-vbbLQbOWRMq-sR7JTbgGTruPa1EdmQiAnCavQm6PfNC9c3bQXiHww_)
+![](formula.png)
 
 **Please complete the functions below. Comments have been provided to guide you through each step.**
 
@@ -153,12 +153,12 @@ def ttest_s(samp1, samp2):
     
     ######### YOUR CODE HERE #########
 
-    # Raise samp1_diff to the second power
+    # Raise samp1_diff to the second power and sum the squared values
     # Store the result in the variable samp1_diff_sq
     
     ######### YOUR CODE HERE #########
 
-    # Raise samp2_diff to the second power
+    # Raise samp2_diff to the second power and sum the squared values
     # Store the result in the variable samp2_diff_sq   
     
     ######### YOUR CODE HERE #########
