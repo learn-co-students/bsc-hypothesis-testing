@@ -1,0 +1,126 @@
+SEQN,Gender,Age in years at screening,Race/Hispanic origin,Race/Hispanic origin w/ NH Asian,Country of birth,When did you last visit a dentist,Main reason for last dental visit,# times you brush your teeth in 1 day?,How much toothpaste do you use?
+109446.0,Male,12.0,3.0,Non-Hispanic White,USA,"More than 2 years, but not more than 3 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+109471.0,Male,14.0,2.0,Other Hispanic,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+109833.0,Male,6.0,2.0,Other Hispanic,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,1.0
+109920.0,Male,6.0,2.0,Other Hispanic,Other,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+110197.0,Male,10.0,5.0,Other race - Including Multi-Racial,USA,"More than 2 years, but not more than 3 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+110652.0,Female,7.0,5.0,Non-Hispanic Asian,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+110666.0,Female,3.0,3.0,Non-Hispanic White,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,2.0
+110679.0,Female,11.0,3.0,Non-Hispanic White,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,1.0
+110847.0,Female,16.0,1.0,Mexican American,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+111056.0,Male,17.0,2.0,Other Hispanic,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",3.0,1.0
+111082.0,Female,17.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+111182.0,Male,8.0,3.0,Non-Hispanic White,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+111399.0,Male,18.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,1.0
+111410.0,Male,11.0,4.0,Non-Hispanic Black,Other,"More than 1 year, but not more than 2 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,3.0
+111423.0,Female,14.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",3.0,1.0
+111435.0,Female,11.0,1.0,Mexican American,Other,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,3.0
+111474.0,Male,12.0,1.0,Mexican American,Other,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+111524.0,Female,18.0,5.0,Other race - Including Multi-Racial,USA,"More than 2 years, but not more than 3 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+111976.0,Male,9.0,5.0,Other race - Including Multi-Racial,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,2.0
+112075.0,Female,10.0,1.0,Mexican American,Other,6 months or less,"Something was wrong, bothering or hurting {me/SP}",1.0,2.0
+112155.0,Male,9.0,5.0,Other race - Including Multi-Racial,Other,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+112809.0,Male,14.0,1.0,Mexican American,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",1.0,2.0
+112914.0,Male,13.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,1.0
+113099.0,Female,13.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+113149.0,Male,6.0,3.0,Non-Hispanic White,USA,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,3.0
+113517.0,Female,7.0,3.0,Non-Hispanic White,USA,"More than 1 year, but not more than 2 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,3.0
+113526.0,Male,15.0,1.0,Mexican American,USA,6 months or less,"Was called in by the dentist for check-up, examination, or cleaning",2.0,2.0
+113705.0,Female,18.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+113739.0,Male,6.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+113743.0,Female,18.0,1.0,Mexican American,Other,"More than 2 years, but not more than 3 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,2.0
+113752.0,Female,13.0,1.0,Mexican American,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,3.0
+113858.0,Female,5.0,2.0,Other Hispanic,Other,"More than 1 year, but not more than 2 years ago",Other,2.0,2.0
+114266.0,Male,8.0,3.0,Non-Hispanic White,USA,"More than 2 years, but not more than 3 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+114398.0,Female,10.0,3.0,Non-Hispanic White,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,3.0
+114459.0,Female,6.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+114565.0,Female,19.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Was called in by the dentist for check-up, examination, or cleaning",3.0,1.0
+114630.0,Male,16.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+114711.0,Female,9.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,2.0
+114817.0,Male,9.0,4.0,Non-Hispanic Black,USA,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+114943.0,Female,19.0,3.0,Non-Hispanic White,USA,"More than 2 years, but not more than 3 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,3.0
+115124.0,Male,17.0,5.0,Non-Hispanic Asian,Other,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,3.0
+115204.0,Female,3.0,2.0,Other Hispanic,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",3.0,1.0
+115339.0,Male,13.0,2.0,Other Hispanic,Other,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+115404.0,Female,13.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+115548.0,Female,11.0,1.0,Mexican American,USA,6 months or less,"Was called in by the dentist for check-up, examination, or cleaning",2.0,1.0
+115677.0,Female,19.0,2.0,Other Hispanic,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+115863.0,Male,9.0,4.0,Non-Hispanic Black,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,3.0
+115893.0,Female,6.0,3.0,Non-Hispanic White,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,2.0
+115926.0,Male,18.0,3.0,Non-Hispanic White,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+116042.0,Male,19.0,2.0,Other Hispanic,Other,More than 5 years ago,"Went in on own for check-up, examination, or cleaning",2.0,2.0
+116046.0,Female,18.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Something was wrong, bothering or hurting {me/SP}",1.0,1.0
+116134.0,Female,17.0,2.0,Other Hispanic,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+116263.0,Female,11.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,2.0
+116317.0,Male,5.0,1.0,Mexican American,Other,6 months or less,"Something was wrong, bothering or hurting {me/SP}",1.0,2.0
+116626.0,Male,8.0,3.0,Non-Hispanic White,USA,"More than 1 year, but not more than 2 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,3.0,1.0
+116737.0,Female,6.0,2.0,Other Hispanic,Other,More than 5 years ago,"Went in on own for check-up, examination, or cleaning",2.0,3.0
+116774.0,Female,13.0,3.0,Non-Hispanic White,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,3.0
+116919.0,Female,10.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+117225.0,Male,8.0,4.0,Non-Hispanic Black,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+117410.0,Male,4.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",3.0,1.0
+117462.0,Male,9.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,1.0
+117476.0,Female,8.0,5.0,Non-Hispanic Asian,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,3.0
+117534.0,Female,18.0,1.0,Mexican American,Other,More than 5 years ago,"Went in on own for check-up, examination, or cleaning",3.0,1.0
+117544.0,Female,11.0,4.0,Non-Hispanic Black,Other,"More than 3 years, but not more than 5 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,3.0
+117673.0,Male,14.0,1.0,Mexican American,USA,"More than 1 year, but not more than 2 years ago","Was called in by the dentist for check-up, examination, or cleaning",1.0,1.0
+117713.0,Male,11.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+118006.0,Female,19.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",3.0,2.0
+118096.0,Male,19.0,2.0,Other Hispanic,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+118180.0,Male,8.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+118212.0,Female,17.0,1.0,Mexican American,USA,More than 5 years ago,Other,2.0,2.0
+118490.0,Female,19.0,1.0,Mexican American,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+118583.0,Female,8.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,3.0
+118710.0,Male,7.0,4.0,Non-Hispanic Black,USA,"More than 3 years, but not more than 5 years ago","Was called in by the dentist for check-up, examination, or cleaning",2.0,1.0
+118733.0,Male,14.0,1.0,Mexican American,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,2.0
+118787.0,Male,8.0,1.0,Mexican American,Other,6 months or less,"Something was wrong, bothering or hurting {me/SP}",1.0,2.0
+118826.0,Female,10.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+118860.0,Male,11.0,3.0,Non-Hispanic White,USA,"More than 2 years, but not more than 3 years ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+118902.0,Female,14.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Something was wrong, bothering or hurting {me/SP}",3.0,1.0
+119003.0,Male,12.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,3.0
+119045.0,Female,14.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,1.0
+119770.0,Male,10.0,1.0,Mexican American,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,1.0
+119818.0,Male,15.0,4.0,Non-Hispanic Black,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+119975.0,Female,19.0,5.0,Other race - Including Multi-Racial,USA,"More than 1 year, but not more than 2 years ago","Something was wrong, bothering or hurting {me/SP}",1.0,3.0
+119983.0,Male,11.0,5.0,Other race - Including Multi-Racial,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",1.0,1.0
+120014.0,Male,13.0,2.0,Other Hispanic,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,1.0
+120184.0,Female,12.0,4.0,Non-Hispanic Black,USA,"More than 2 years, but not more than 3 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,1.0
+120255.0,Male,16.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+120261.0,Female,19.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,1.0
+120559.0,Male,9.0,2.0,Other Hispanic,Other,6 months or less,"Was called in by the dentist for check-up, examination, or cleaning",1.0,2.0
+120619.0,Female,7.0,1.0,Mexican American,Other,"More than 1 year, but not more than 2 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+120715.0,Female,5.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",3.0,3.0
+120724.0,Male,9.0,4.0,Non-Hispanic Black,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,4.0
+120728.0,Female,5.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,3.0
+120949.0,Female,11.0,1.0,Mexican American,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,1.0
+121004.0,Female,14.0,1.0,Mexican American,USA,More than 5 years ago,Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,1.0
+121139.0,Male,18.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Something was wrong, bothering or hurting {me/SP}",3.0,1.0
+121466.0,Male,11.0,1.0,Mexican American,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,2.0
+121521.0,Female,19.0,3.0,Non-Hispanic White,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+121765.0,Male,6.0,2.0,Other Hispanic,Other,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",3.0,1.0
+121947.0,Male,13.0,2.0,Other Hispanic,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+121973.0,Female,6.0,3.0,Non-Hispanic White,USA,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,4.0
+121999.0,Male,13.0,2.0,Other Hispanic,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",1.0,1.0
+122143.0,Female,18.0,1.0,Mexican American,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+122161.0,Female,11.0,1.0,Mexican American,USA,"More than 3 years, but not more than 5 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,1.0
+122181.0,Male,11.0,1.0,Mexican American,Other,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,2.0
+122238.0,Female,18.0,3.0,Non-Hispanic White,USA,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,2.0
+122292.0,Female,17.0,4.0,Non-Hispanic Black,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,2.0
+122481.0,Male,18.0,1.0,Mexican American,USA,"More than 6 months, but not more than 1 year ago","Was called in by the dentist for check-up, examination, or cleaning",1.0,4.0
+123017.0,Male,9.0,1.0,Mexican American,USA,"More than 3 years, but not more than 5 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,2.0
+123189.0,Female,17.0,4.0,Non-Hispanic Black,USA,Missing/Don't know,"Went in on own for check-up, examination, or cleaning",1.0,2.0
+123286.0,Female,18.0,4.0,Non-Hispanic Black,USA,"More than 6 months, but not more than 1 year ago","Something was wrong, bothering or hurting {me/SP}",1.0,1.0
+123679.0,Male,10.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+123725.0,Male,15.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
+123836.0,Female,19.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago","Went in on own for check-up, examination, or cleaning",3.0,1.0
+123869.0,Male,19.0,1.0,Mexican American,USA,"More than 3 years, but not more than 5 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,1.0
+123872.0,Male,17.0,4.0,Non-Hispanic Black,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,1.0
+124133.0,Female,8.0,3.0,Non-Hispanic White,USA,"More than 6 months, but not more than 1 year ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,3.0
+124166.0,Female,8.0,3.0,Non-Hispanic White,USA,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,1.0
+124204.0,Male,3.0,2.0,Other Hispanic,Other,6 months or less,"Something was wrong, bothering or hurting {me/SP}",2.0,2.0
+124239.0,Female,19.0,5.0,Non-Hispanic Asian,Other,6 months or less,"Went in on own for check-up, examination, or cleaning",2.0,1.0
+124333.0,Male,11.0,5.0,Other race - Including Multi-Racial,USA,"More than 3 years, but not more than 5 years ago","Went in on own for check-up, examination, or cleaning",1.0,3.0
+124357.0,Male,10.0,1.0,Mexican American,USA,6 months or less,Went for treatment of a condition that dentist discovered at earlier checkup or examination,2.0,3.0
+124595.0,Male,10.0,2.0,Other Hispanic,USA,"More than 3 years, but not more than 5 years ago","Something was wrong, bothering or hurting {me/SP}",2.0,2.0
+124664.0,Female,10.0,1.0,Mexican American,Other,"More than 1 year, but not more than 2 years ago",Went for treatment of a condition that dentist discovered at earlier checkup or examination,1.0,3.0
+124727.0,Female,13.0,3.0,Non-Hispanic White,USA,"More than 1 year, but not more than 2 years ago","Went in on own for check-up, examination, or cleaning",2.0,2.0
